@@ -1,1 +1,3 @@
+# 10 Library Book v7
+
 In this program, we talk about implementing the IComparable<T> and IComparer<T> interfaces. We learned about C# generic types and how to implement them. Tangentially, we also learn about one of the Gang of Four patterns, the Strategy pattern, since the IEnumerable<T>.Sort() can take an argument of type IComparer<T>. In addition, we did away with the forms and file streams as well to focus solely on the interfaces. 
