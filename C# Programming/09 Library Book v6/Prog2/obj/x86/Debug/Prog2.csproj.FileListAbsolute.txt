@@ -1,0 +1,15 @@
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.Prog2Form.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\bin\Debug\Prog2.exe
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\bin\Debug\Prog2.pdb
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\Prog2.exe
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\Prog2.pdb
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.EditBook.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog3\Prog2\obj\x86\Debug\LibraryItems.EditPatron.resources

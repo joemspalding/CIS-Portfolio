@@ -1,0 +1,36 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_17S\Progs\Prog2Start\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\Prog2.pdb
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\LibraryItems.Form1.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\LibraryItems.InsertPatron.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\LibraryItems.InsertBook.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\LibraryItems.CheckOut.resources
+C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog2\Prog2\obj\Debug\LibraryItems.Return.resources
