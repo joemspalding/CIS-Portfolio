@@ -1,6 +1,0 @@
-C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog4\Prog4\Prog4\bin\Debug\Prog4.exe.config
-C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog4\Prog4\Prog4\obj\Debug\Prog4.csprojResolveAssemblyReference.cache
-C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog4\Prog4\Prog4\bin\Debug\Prog4.exe
-C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog4\Prog4\Prog4\bin\Debug\Prog4.pdb
-C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog4\Prog4\Prog4\obj\Debug\Prog4.exe
-C:\Users\JMSPA\Documents\SCHOOL\2017\SPR 2017\CIS 200\Programs\Prog4\Prog4\Prog4\obj\Debug\Prog4.pdb
