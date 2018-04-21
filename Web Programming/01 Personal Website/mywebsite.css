@@ -1,0 +1,123 @@
+.row {
+	text-align: center;
+}
+
+.top {
+
+	box-shadow: 0px 0px 10px;
+}
+
+.top h1 {
+	font-family: "Baskerville Old Face", serif;
+	font-size: 500%;
+	color: #EEE;
+	text-shadow: 0px 0px 2px;
+	background-color: #222;
+	padding-top: 5%;
+	padding-bottom: 2%;
+	padding-left: 26%;
+	margin:0px;
+	margin-top:2%;
+	cursor: default;
+}
+
+.top p {
+	font-family: "Baskerville Old Face", serif;
+	color: #EEE;
+	font-size:120%;
+	text-shadow: 0px 0px 1px;
+	background-color: #222;
+	padding-top: 10px;
+	padding-bottom: 3%;
+	padding-left: 30%;
+	margin: 0px;
+	margin-bottom: 30px;
+	cursor: default;
+}
+
+#container {
+	height: 800px;
+}
+
+#sidebar {
+/*    background-color:#ff9A53;*/
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 24%;
+    overflow: hidden;
+    	box-shadow: 0px 0px 3px;
+
+}
+
+.sidebar {
+	position: fixed;
+}
+.dropbtn{
+	font-family: "Baskerville Old Face", serif;
+	background-color: #333;
+	color:#EEE;
+	text-shadow: 0px 0px 1px;
+	padding : 1em;
+	font-size: 150%;
+	cursor: default;
+}
+
+.dropdown, .menu{
+	position:relative;
+	display:inline-block;
+	margin-left: 8%;
+	margin-right: 6.25%;
+	margin-bottom:1%;
+	padding-top:0px;
+/*	box-shadow: 0px 0px 10px;*/
+}
+
+.dropdown-content{
+	display: none;
+	position: absolute;
+	background-color: #333;
+	min-width:10em;
+	z-index: 1;
+}
+
+.dropdown-content a {
+	cursor: pointer;
+	color: #EEE;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+.dropdown-content p {
+	cursor: pointer;
+	color: #EEE;
+	text-decoration: none;
+}
+
+.aboutme-container{
+	padding-left: 4%;
+	padding-top: 3%;
+	padding-right: 28%;
+}
+
+.aboutme{
+	opacity: 20%;
+	padding:40px;
+}
+
+.headshot img{
+	border-radius: 8px;
+	max-width: 27%;
+	height: auto;
+	float: left;
+	margin-right:15px;
+}
+
+.aboutme-bio{
+	float: left;
+	position: relative;
+}
+
+.aboutme-bio h2{
+	font-family: "Baskerville Old Face", serif;
+	margin:0px;
+}
